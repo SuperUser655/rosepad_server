@@ -1,0 +1,17 @@
+2023-10-14 15:50:48 [INFO] Starting minecraft server version 1.1.0.6-beta
+2023-10-14 15:50:48 [INFO] Loading mods
+2023-10-14 15:50:48 [INFO] Loading properties
+2023-10-14 15:50:48 [INFO] Starting Minecraft server on *:25565
+2023-10-14 15:50:48 [INFO] **** SERVER IS RUNNING IN ULPP ONLINE MODE!
+2023-10-14 15:50:48 [INFO] The server will authenticate usernames.
+2023-10-14 15:50:48 [INFO] Unauthenticated players may still join by default, and their abilities can be configured in the unauth.config file.
+2023-10-14 15:50:48 [INFO] Preparing level "world"
+2023-10-14 15:50:49 [INFO] Preparing start region
+2023-10-14 15:50:49 [INFO] Done! For help, type "help" or "?"
+2023-10-14 15:51:16 [INFO] _superuser [/25.41.5.68:50653] logged in with ULPP0
+2023-10-14 15:52:04 [WARNING] _superuser moved wrongly!
+2023-10-14 16:06:50 [INFO] _superuser lost connection: Quitting
+2023-10-14 16:06:52 [INFO] _superuser [/25.41.5.68:50760] logged in with ULPP0
+2023-10-14 16:10:18 [INFO] _superuser lost connection: Quitting
+2023-10-14 16:11:44 [INFO] _superuser [/25.41.5.68:50776] logged in with ULPP0
+2023-10-14 16:21:22 [INFO] _superuser lost connection: Quitting
